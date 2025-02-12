@@ -1,5 +1,13 @@
-alert("Hello World");
-var nama = "Azruli Manan Awal";
-document.write("<h1>Title</h1>");
-// berikut ini contoh penggunaan operator concatenate (+)
-document.write ("Hi + Azruli Manan Awal + Selamat Datang");
+<!DOCTYPE html>
+<html>
+    <body>
+        <h2>Halaman Javascript Pertama</h2>
+
+        <button type="Button"
+        oneclick=":Document.getElementByld('Demo').innerHtml = Date()">
+    klik Untuk Menampilkan Tanggal dan Waktu</button>
+
+    <p id="Demo"></p>
+    
+    </body>
+</html>
